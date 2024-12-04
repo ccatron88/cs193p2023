@@ -26,6 +26,7 @@ struct ContentView: View {
             CardView()
             CardView()
             CardView()
+            CardView()
         }
         .foregroundColor(.purple)
         .padding(.horizontal, 2.0)
